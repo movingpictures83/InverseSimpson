@@ -1,0 +1,2 @@
+Prefix plugins/InverseSimpson/example/
+Plugin InverseSimpson inputfile abund.csv outputfile none
