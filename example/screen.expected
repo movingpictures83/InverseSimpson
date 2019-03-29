@@ -23,13 +23,13 @@
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: InverseSimpson
-Inverse Simpson For Row  0 :  6.66527584577e-07
-Inverse Simpson For Row  1 :  1.59058627419e-06
-Inverse Simpson For Row  2 :  6.13554561474e-08
-Inverse Simpson For Row  3 :  5.29159884601e-07
-Inverse Simpson For Row  4 :  2.4549034241e-06
-Inverse Simpson For Row  5 :  4.30169508295e-07
-Inverse Simpson For Row  6 :  8.0300000803e-07
-Inverse Simpson For Row  7 :  1.27482726091e-06
-Inverse Simpson For Row  8 :  7.37451706131e-07
-50.1330671989 % ZEROES
+Inverse Simpson For Row  0 :  6.665275845773515e-07
+Inverse Simpson For Row  1 :  1.5905862741948055e-06
+Inverse Simpson For Row  2 :  6.135545614744551e-08
+Inverse Simpson For Row  3 :  5.291598846008123e-07
+Inverse Simpson For Row  4 :  2.454903424099296e-06
+Inverse Simpson For Row  5 :  4.3016950829474355e-07
+Inverse Simpson For Row  6 :  8.030000080300001e-07
+Inverse Simpson For Row  7 :  1.2748272609061472e-06
+Inverse Simpson For Row  8 :  7.374517061313947e-07
+50.133067198935464 % ZEROES

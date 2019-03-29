@@ -2,7 +2,7 @@
 # Language: Python
 # Input: CSV (abundances)
 # Output: none (screen only)
-# Tested with: PluMA 1.0, Python 2.7
+# Tested with: PluMA 1.0, Python 3.6
 
 PluMA plugin to compute the Inverse Simpson Diversity Index for each of a set of samples.
 The plugin accepts sample data in the form of a CSV file where rows represent samples and columns
