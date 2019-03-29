@@ -39,7 +39,7 @@ class InverseSimpsonPlugin:
             sum += self.ADJ[i][j]*self.ADJ[i][j] 
             totalentries += 1 
          if (sum != 0):
-            print "Inverse Simpson For Row ", i, ": ", 1.0/sum
+            print ("Inverse Simpson For Row  "+str(i)+" :  "+str(1.0/sum))
          else:
-            print "Zero Sum for Row ", i
-      print totalzeros/totalentries*100, "% ZEROES"
+            print ("Zero Sum for Row  "+str(i))
+      print (str(totalzeros/totalentries*100)+" % ZEROES")
